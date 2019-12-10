@@ -15,8 +15,9 @@ https://youtu.be/Y1_VYIPNtuk
 https://www.thingiverse.com/thing:3684937
 
 
-Grundlegend kann jeder dieses Projekt nachbauen.
-Achtung: Der Microchip ist ein PIC und lässt sich nur mit entsprechenden Programiergerät beschreiben.
+Grundlegend kann jeder dieses Projekt nachbauen....
+
+ABER Achtung: Der Microchip ist ein PIC und lässt sich nur mit entsprechenden Programiergerät beschreiben.
 
 
 ........
