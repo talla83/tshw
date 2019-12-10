@@ -1,5 +1,5 @@
 # tshw
- - SmartSerial - Tom simple handwheel -
+SmartSerial for Tom simple handwheel -
 
 https://youtu.be/Y1_VYIPNtuk
 
