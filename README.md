@@ -3,7 +3,7 @@ SmartSerial for Tom simple handwheel -
 
 Eine kleine Erweiterungsplatine mit universellen IOs.
 
-10 x digital putput 
+10 x digital output 
 11 x digital input
 1  x analog  input (0 - 3.3V)
 1  x encoder input (A + B )
